@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="21" passed="21">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="1493767" started-at="2021-06-22T07:04:14Z" finished-at="2021-06-22T07:29:08Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="1493767" started-at="2021-06-22T07:04:14Z" finished-at="2021-06-22T07:29:08Z">
+      <class name="com.qa.tests.DeleteCustomerPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.DeleteCustomerPageTest@6dc17b83]" name="setUp" is-config="true" duration-ms="12311" started-at="2021-06-22T12:45:06Z" finished-at="2021-06-22T12:45:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyDeleteCustomerTest()[pri:0, instance:com.qa.tests.DeleteCustomerPageTest@6dc17b83]" name="verifyDeleteCustomerTest" duration-ms="976" started-at="2021-06-22T12:45:18Z" finished-at="2021-06-22T12:45:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDeleteCustomerTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.DeleteCustomerPageTest@6dc17b83]" name="tearDown" is-config="true" duration-ms="5489" started-at="2021-06-22T12:45:19Z" finished-at="2021-06-22T12:45:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.DeleteCustomerPageTest@6dc17b83]" name="setUp" is-config="true" duration-ms="12274" started-at="2021-06-22T12:46:00Z" finished-at="2021-06-22T12:46:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLogoTest()[pri:0, instance:com.qa.tests.DeleteCustomerPageTest@6dc17b83]" name="verifyLogoTest" duration-ms="6949" started-at="2021-06-22T12:46:13Z" finished-at="2021-06-22T12:46:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.DeleteCustomerPageTest@6dc17b83]" name="tearDown" is-config="true" duration-ms="26856" started-at="2021-06-22T12:46:20Z" finished-at="2021-06-22T12:46:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.tests.DeleteCustomerPageTest -->
+      <class name="com.qa.tests.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.HomePageTest@62150f9e]" name="setUp" is-config="true" duration-ms="210755" started-at="2021-06-22T12:34:15Z" finished-at="2021-06-22T12:37:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyManagerTest()[pri:0, instance:com.qa.tests.HomePageTest@62150f9e]" name="verifyManagerTest" duration-ms="18180" started-at="2021-06-22T12:37:50Z" finished-at="2021-06-22T12:38:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyManagerTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.HomePageTest@62150f9e]" name="tearDown" is-config="true" duration-ms="4440" started-at="2021-06-22T12:38:11Z" finished-at="2021-06-22T12:38:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.HomePageTest@62150f9e]" name="setUp" is-config="true" duration-ms="31152" started-at="2021-06-22T12:38:25Z" finished-at="2021-06-22T12:38:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyTitleTest()[pri:0, instance:com.qa.tests.HomePageTest@62150f9e]" name="verifyTitleTest" duration-ms="9378" started-at="2021-06-22T12:38:56Z" finished-at="2021-06-22T12:39:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.HomePageTest@62150f9e]" name="tearDown" is-config="true" duration-ms="51323" started-at="2021-06-22T12:39:08Z" finished-at="2021-06-22T12:39:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.tests.HomePageTest -->
+      <class name="com.qa.tests.DeleteAccountPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.DeleteAccountPageTest@32eff876]" name="setUp" is-config="true" duration-ms="11993" started-at="2021-06-22T12:52:30Z" finished-at="2021-06-22T12:52:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLoginTest()[pri:0, instance:com.qa.tests.DeleteAccountPageTest@32eff876]" name="verifyLoginTest" duration-ms="760" started-at="2021-06-22T12:52:42Z" finished-at="2021-06-22T12:52:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.DeleteAccountPageTest@32eff876]" name="tearDown" is-config="true" duration-ms="83750" started-at="2021-06-22T12:52:43Z" finished-at="2021-06-22T12:54:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.DeleteAccountPageTest@32eff876]" name="setUp" is-config="true" duration-ms="12935" started-at="2021-06-22T12:54:25Z" finished-at="2021-06-22T12:54:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLogoTest()[pri:0, instance:com.qa.tests.DeleteAccountPageTest@32eff876]" name="verifyLogoTest" duration-ms="9245" started-at="2021-06-22T12:54:38Z" finished-at="2021-06-22T12:54:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.DeleteAccountPageTest@32eff876]" name="tearDown" is-config="true" duration-ms="9633" started-at="2021-06-22T12:54:47Z" finished-at="2021-06-22T12:54:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.DeleteAccountPageTest@32eff876]" name="setUp" is-config="true" duration-ms="12632" started-at="2021-06-22T12:55:06Z" finished-at="2021-06-22T12:55:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifydeleteaccountTest()[pri:0, instance:com.qa.tests.DeleteAccountPageTest@32eff876]" name="verifydeleteaccountTest" duration-ms="863" started-at="2021-06-22T12:55:19Z" finished-at="2021-06-22T12:55:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifydeleteaccountTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.DeleteAccountPageTest@32eff876]" name="tearDown" is-config="true" duration-ms="7474" started-at="2021-06-22T12:55:20Z" finished-at="2021-06-22T12:55:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.tests.DeleteAccountPageTest -->
+      <class name="com.qa.tests.EditAccountPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.EditAccountPageTest@8dbdac1]" name="setUp" is-config="true" duration-ms="11154" started-at="2021-06-22T12:55:38Z" finished-at="2021-06-22T12:55:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyEditAccountTest()[pri:0, instance:com.qa.tests.EditAccountPageTest@8dbdac1]" name="verifyEditAccountTest" duration-ms="723" started-at="2021-06-22T12:55:49Z" finished-at="2021-06-22T12:55:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEditAccountTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.EditAccountPageTest@8dbdac1]" name="tearDown" is-config="true" duration-ms="8657" started-at="2021-06-22T12:55:50Z" finished-at="2021-06-22T12:55:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.EditAccountPageTest@8dbdac1]" name="setUp" is-config="true" duration-ms="12555" started-at="2021-06-22T12:56:09Z" finished-at="2021-06-22T12:56:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyEditPageTest()[pri:0, instance:com.qa.tests.EditAccountPageTest@8dbdac1]" name="verifyEditPageTest" duration-ms="1012" started-at="2021-06-22T12:56:21Z" finished-at="2021-06-22T12:56:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEditPageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.EditAccountPageTest@8dbdac1]" name="tearDown" is-config="true" duration-ms="10782" started-at="2021-06-22T12:56:22Z" finished-at="2021-06-22T12:56:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.EditAccountPageTest@8dbdac1]" name="setUp" is-config="true" duration-ms="12302" started-at="2021-06-22T12:56:45Z" finished-at="2021-06-22T12:56:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLogoTest()[pri:0, instance:com.qa.tests.EditAccountPageTest@8dbdac1]" name="verifyLogoTest" duration-ms="8045" started-at="2021-06-22T12:56:57Z" finished-at="2021-06-22T12:57:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.EditAccountPageTest@8dbdac1]" name="tearDown" is-config="true" duration-ms="8402" started-at="2021-06-22T12:57:05Z" finished-at="2021-06-22T12:57:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.tests.EditAccountPageTest -->
+      <class name="com.qa.tests.DepositPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.DepositPageTest@7fa98a66]" name="setUp" is-config="true" duration-ms="12955" started-at="2021-06-22T12:41:43Z" finished-at="2021-06-22T12:41:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyamountdepositTest()[pri:0, instance:com.qa.tests.DepositPageTest@7fa98a66]" name="verifyamountdepositTest" duration-ms="1795" started-at="2021-06-22T12:41:56Z" finished-at="2021-06-22T12:41:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyamountdepositTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.DepositPageTest@7fa98a66]" name="tearDown" is-config="true" duration-ms="15811" started-at="2021-06-22T12:41:58Z" finished-at="2021-06-22T12:42:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.DepositPageTest@7fa98a66]" name="setUp" is-config="true" duration-ms="12045" started-at="2021-06-22T12:43:00Z" finished-at="2021-06-22T12:43:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifylogoTest()[pri:0, instance:com.qa.tests.DepositPageTest@7fa98a66]" name="verifylogoTest" duration-ms="8237" started-at="2021-06-22T12:43:12Z" finished-at="2021-06-22T12:43:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.DepositPageTest@7fa98a66]" name="tearDown" is-config="true" duration-ms="10014" started-at="2021-06-22T12:43:21Z" finished-at="2021-06-22T12:43:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.tests.DepositPageTest -->
+      <class name="com.qa.tests.CustomerPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.CustomerPageTest@5fdcaa40]" name="setUp" is-config="true" duration-ms="11840" started-at="2021-06-22T12:57:26Z" finished-at="2021-06-22T12:57:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyCustomerLoginTest()[pri:1, instance:com.qa.tests.CustomerPageTest@5fdcaa40]" name="verifyCustomerLoginTest" duration-ms="9381" started-at="2021-06-22T12:57:38Z" finished-at="2021-06-22T12:57:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCustomerLoginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.CustomerPageTest@5fdcaa40]" name="tearDown" is-config="true" duration-ms="7088" started-at="2021-06-22T12:57:47Z" finished-at="2021-06-22T12:57:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.CustomerPageTest@5fdcaa40]" name="setUp" is-config="true" duration-ms="11147" started-at="2021-06-22T12:58:27Z" finished-at="2021-06-22T12:58:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLogoTest()[pri:2, instance:com.qa.tests.CustomerPageTest@5fdcaa40]" name="verifyLogoTest" duration-ms="11077" started-at="2021-06-22T12:58:38Z" finished-at="2021-06-22T12:58:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.CustomerPageTest@5fdcaa40]" name="tearDown" is-config="true" duration-ms="7534" started-at="2021-06-22T12:58:49Z" finished-at="2021-06-22T12:58:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.tests.CustomerPageTest -->
+      <class name="com.qa.tests.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.LoginPageTest@5e0826e7]" name="setUp" is-config="true" duration-ms="8394" started-at="2021-06-22T12:46:56Z" finished-at="2021-06-22T12:47:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLoginTest()[pri:0, instance:com.qa.tests.LoginPageTest@5e0826e7]" name="verifyLoginTest" duration-ms="3562" started-at="2021-06-22T12:47:05Z" finished-at="2021-06-22T12:47:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.LoginPageTest@5e0826e7]" name="tearDown" is-config="true" duration-ms="58524" started-at="2021-06-22T12:47:08Z" finished-at="2021-06-22T12:48:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.LoginPageTest@5e0826e7]" name="setUp" is-config="true" duration-ms="8427" started-at="2021-06-22T12:51:01Z" finished-at="2021-06-22T12:51:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLogoTest()[pri:0, instance:com.qa.tests.LoginPageTest@5e0826e7]" name="verifyLogoTest" duration-ms="15309" started-at="2021-06-22T12:51:09Z" finished-at="2021-06-22T12:51:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.LoginPageTest@5e0826e7]" name="tearDown" is-config="true" duration-ms="27357" started-at="2021-06-22T12:51:25Z" finished-at="2021-06-22T12:51:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.LoginPageTest@5e0826e7]" name="setUp" is-config="true" duration-ms="7008" started-at="2021-06-22T12:52:01Z" finished-at="2021-06-22T12:52:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyTitleTest()[pri:0, instance:com.qa.tests.LoginPageTest@5e0826e7]" name="verifyTitleTest" duration-ms="120" started-at="2021-06-22T12:52:08Z" finished-at="2021-06-22T12:52:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.LoginPageTest@5e0826e7]" name="tearDown" is-config="true" duration-ms="10673" started-at="2021-06-22T12:52:08Z" finished-at="2021-06-22T12:52:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.tests.LoginPageTest -->
+      <class name="com.qa.tests.EditCustomerPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.EditCustomerPageTest@15ff3e9e]" name="setUp" is-config="true" duration-ms="11568" started-at="2021-06-22T12:43:41Z" finished-at="2021-06-22T12:43:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyEditCustomerTest()[pri:0, instance:com.qa.tests.EditCustomerPageTest@15ff3e9e]" name="verifyEditCustomerTest" duration-ms="1697" started-at="2021-06-22T12:43:53Z" finished-at="2021-06-22T12:43:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEditCustomerTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.EditCustomerPageTest@15ff3e9e]" name="tearDown" is-config="true" duration-ms="22459" started-at="2021-06-22T12:43:55Z" finished-at="2021-06-22T12:44:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.EditCustomerPageTest@15ff3e9e]" name="setUp" is-config="true" duration-ms="13415" started-at="2021-06-22T12:44:25Z" finished-at="2021-06-22T12:44:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLogoTest()[pri:0, instance:com.qa.tests.EditCustomerPageTest@15ff3e9e]" name="verifyLogoTest" duration-ms="10214" started-at="2021-06-22T12:44:39Z" finished-at="2021-06-22T12:44:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.EditCustomerPageTest@15ff3e9e]" name="tearDown" is-config="true" duration-ms="5906" started-at="2021-06-22T12:44:49Z" finished-at="2021-06-22T12:44:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.tests.EditCustomerPageTest -->
+      <class name="com.qa.tests.AccountPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.AccountPageTest@1a451d4d]" name="setUp" is-config="true" duration-ms="11837" started-at="2021-06-22T12:40:10Z" finished-at="2021-06-22T12:40:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="accountLoginTest()[pri:0, instance:com.qa.tests.AccountPageTest@1a451d4d]" name="accountLoginTest" duration-ms="5654" started-at="2021-06-22T12:40:22Z" finished-at="2021-06-22T12:40:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accountLoginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.AccountPageTest@1a451d4d]" name="tearDown" is-config="true" duration-ms="20430" started-at="2021-06-22T12:40:28Z" finished-at="2021-06-22T12:40:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.tests.AccountPageTest@1a451d4d]" name="setUp" is-config="true" duration-ms="11885" started-at="2021-06-22T12:41:03Z" finished-at="2021-06-22T12:41:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifylogoTest()[pri:0, instance:com.qa.tests.AccountPageTest@1a451d4d]" name="verifylogoTest" duration-ms="8880" started-at="2021-06-22T12:41:14Z" finished-at="2021-06-22T12:41:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.tests.AccountPageTest@1a451d4d]" name="tearDown" is-config="true" duration-ms="6726" started-at="2021-06-22T12:41:23Z" finished-at="2021-06-22T12:41:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.tests.AccountPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

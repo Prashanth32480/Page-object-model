@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="com.qa.tests.HomePageTest"/>
+      <class name="com.qa.tests.AccountPageTest"/>
+      <class name="com.qa.tests.DepositPageTest"/>
+      <class name="com.qa.tests.EditCustomerPageTest"/>
+      <class name="com.qa.tests.CustomerPageTest"/>
+      <class name="com.qa.tests.DeleteCustomerPageTest"/>
+      <class name="com.qa.tests.LoginPageTest"/>
+      <class name="com.qa.tests.DeleteAccountPageTest"/>
+      <class name="com.qa.tests.EditAccountPageTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

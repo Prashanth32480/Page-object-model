@@ -1,0 +1,15 @@
+name: Suite
+configFailurePolicy: skip
+tests:
+  - name: Test
+    classes:
+      - com.qa.tests.HomePageTest
+      - com.qa.tests.AccountPageTest
+      - com.qa.tests.DepositPageTest
+      - com.qa.tests.EditCustomerPageTest
+      - com.qa.tests.CustomerPageTest
+      - com.qa.tests.DeleteCustomerPageTest
+      - com.qa.tests.LoginPageTest
+      - com.qa.tests.DeleteAccountPageTest
+      - com.qa.tests.EditAccountPageTest
+
